@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" role="img" aria-label="HJ Heavy Industries">
+  <g fill="none" fill-rule="evenodd">
+    <text x="0" y="32" fill="#6FAE3A" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="1">HJ</text>
+    <g transform="translate(48 14)">
+      <rect x="0" y="0" width="22" height="5" rx="2.5" fill="#8BC34A" transform="rotate(-28 11 2.5)"/>
+      <rect x="0" y="8" width="22" height="5" rx="2.5" fill="#6FAE3A" transform="rotate(-28 11 10.5)"/>
+      <rect x="0" y="16" width="22" height="5" rx="2.5" fill="#4E7D2A" transform="rotate(-28 11 18.5)"/>
+    </g>
+    <text x="86" y="32" fill="#F4F4F2" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="0.5">Heavy Industries</text>
+  </g>
+</svg>
